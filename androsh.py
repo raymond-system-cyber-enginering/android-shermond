@@ -59,7 +59,7 @@ if pilih == "1":
  print("mengirim virus ke " + userno + ".......selesai")
  print("mengirim virus ke " + userno + ".......selesai")
  
-if pilih == "2":
+elif pilih == "2":
  print("selamat datang di android shermond!!!")
  print("")
  print("silahkan pilih :")
@@ -72,7 +72,7 @@ if pilih == "2":
  print("")
  pilih1 = input("pilih : ")
 
-if pilih1 == "1":
+elif pilih1 == "1":
  print("tentang :")
  print("")
  print("developer : shermond_official")
@@ -87,7 +87,7 @@ if pilih1 == "1":
  print("")
  print("3.TUHAN yang maha esa")
 
-if pilih1 == "2":
+elif pilih1 == "2":
  print("temen shermond")
  print("")
  print("1.luiz")
@@ -97,7 +97,7 @@ if pilih1 == "2":
  print("5.mii")
  print("6.hams whangsaff")
 
-if pilih1 == "3":
+elif pilih1 == "3":
  print("credit")
  print("")
  print("---------------------credits-------------------")
