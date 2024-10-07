@@ -87,7 +87,7 @@ if pilih1 == "1":
  print("")
  print("3.TUHAN yang maha esa")
 
-if pilih1 == "2":
+elif pilih1 == "2":
  print("temen shermond")
  print("")
  print("1.luiz")
@@ -97,7 +97,7 @@ if pilih1 == "2":
  print("5.mii")
  print("6.hams whangsaff")
 
-if pilih1 == "3":
+elif pilih1 == "3":
  print("credit")
  print("")
  print("---------------------credits-------------------")
