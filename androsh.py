@@ -97,7 +97,7 @@ elif pilih1 == "2":
  print("5.mii")
  print("6.hams whangsaff")
 
-if pilih1 == "3":
+elif pilih1 == "3":
  print("credit")
  print("")
  print("---------------------credits-------------------")
