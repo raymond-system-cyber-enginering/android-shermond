@@ -72,7 +72,7 @@ elif pilih == "2":
  print("")
  pilih1 = input("pilih : ")
 
-elif pilih1 == "1":
+if pilih1 == "1":
  print("tentang :")
  print("")
  print("developer : shermond_official")
